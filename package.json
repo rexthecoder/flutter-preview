@@ -16,11 +16,9 @@
         "color": "#54C5F8",
         "theme": "dark"
     },
-    "bugs": "https://github.com/jadsonbr/flutter-preview/issues",
-    "homepage": "https://github.com/jadsonbr/flutter-preview/blob/master/README.md",
     "repository": {
         "type": "git",
-        "url": "https://github.com/jadsonbr/flutter-preview"
+        "url": "https://github.com"
     },
     "keywords": [
         "flutter",
